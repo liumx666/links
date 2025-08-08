@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "DWPHVGUZ22.com.tuya.smart", // TeamID + Bundle ID
+      "paths": ["/nfc*"] // 匹配 /nfc 开头的链接
+    }]
+  }
+}
